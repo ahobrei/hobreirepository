@@ -12,26 +12,26 @@
 - 1.  ПЕрше завдання:
       ![1](/workspaces/hobreirepository/laba3/photo/p1.png)
 - 2.  Метод arange
-      ![code](/workspaces/hobreirepository/laba3/photo/p2.png)
+      ![2](/workspaces/hobreirepository/laba3/photo/p2.png)
 - 3.  Метод linspace:
-      ![code](/workspaces/hobreirepository/laba3/photo/p3.png)
+      ![3](/workspaces/hobreirepository/laba3/photo/p3.png)
 - 4.  Типи масивів/векторів:
-      ![code](/workspaces/hobreirepository/laba3/photo/p4.png)
+      ![4](/workspaces/hobreirepository/laba3/photo/p4.png)
 - 5.  Багатовимірні масиви, розуміння вимірів:
-      ![code](/workspaces/hobreirepository/laba3/photo/p5.png)
+      ![5](/workspaces/hobreirepository/laba3/photo/p5.png)
 - 6.  Indexing and Slicing:
-      ![code](/workspaces/hobreirepository/laba3/photo/p6.png)
-      ![code](/workspaces/hobreirepository/laba3/photo/p7.png)
-      ![code](/workspaces/hobreirepository/laba3/photo/p8.png)
-      ![code](/workspaces/hobreirepository/laba3/photo/p9.png)
-      ![code](/workspaces/hobreirepository/laba3/photo/p10.png)
-      ![code](/workspaces/hobreirepository/laba3/photo/p11.png)
-      ![code](/workspaces/hobreirepository/laba3/photo/p12.png)
+      ![6](/workspaces/hobreirepository/laba3/photo/p6.png)
+      ![7](/workspaces/hobreirepository/laba3/photo/p7.png)
+      ![8](/workspaces/hobreirepository/laba3/photo/p8.png)
+      ![9](/workspaces/hobreirepository/laba3/photo/p9.png)
+      ![10](/workspaces/hobreirepository/laba3/photo/p10.png)
+      ![11](/workspaces/hobreirepository/laba3/photo/p11.png)
+      ![12](/workspaces/hobreirepository/laba3/photo/p12.png)
 
 - 7.  Виконую 7 завдання:
-      ![code](/workspaces/hobreirepository/laba3/photo/модифікація.png)
+      ![13](/workspaces/hobreirepository/laba3/photo/модифікація.png)
 - 8.  Восьме завдання:
-    ![code](/workspaces/hobreirepository/laba3/photo/восьме_щавдання.png)
+    ![14](/workspaces/hobreirepository/laba3/photo/восьме_щавдання.png)
     
 
 
