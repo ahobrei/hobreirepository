@@ -8,11 +8,8 @@
 * вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті);
     ![alt text](https://github.com/ahobrei/hobreirepository/blob/main/laba1/pictures/1.png "result")
 
-* з використанням URL ![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
-    
-* через локальні шляхи ![alt text](./pictures/logo-lit.jpg "ІТ Коледж")
-
-* результати виконання індивідуального завдання (якщо такі є);
+* Результати виконання завдання *2N*
+ ![alt text](https://github.com/ahobrei/hobreirepository/blob/main/laba1/pictures/1.png "result")
 
 ---
 ### Висновок:
