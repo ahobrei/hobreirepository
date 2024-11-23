@@ -9,7 +9,10 @@
     ![alt text](https://github.com/ahobrei/hobreirepository/blob/main/laba1/pictures/1.png "result")
 
 * Результати виконання завдання *2N*
- ![alt text](https://github.com/ahobrei/hobreirepository/blob/main/laba1/pictures/1.png "result")
+ ![alt text](https://github.com/ahobrei/hobreirepository/blob/main/laba1/pictures/2.png "result")
+
+* Результати виконання завдання *3N*
+ ![alt text](https://github.com/ahobrei/hobreirepository/blob/main/laba1/pictures/2.png "result")
 
 ---
 ### Висновок:
