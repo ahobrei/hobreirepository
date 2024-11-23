@@ -6,7 +6,7 @@
 ### Виконання роботи
 * Результати виконання завдання *1N*;
 * вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті);
-    ![alt text](/laba1/pictures/hobreirepository/laba1/pictures/1.png "result")
+    ![alt text](https://github.com/ahobrei/hobreirepository/blob/main/laba1/pictures/1.png "result")
 
 * з використанням URL ![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
     
