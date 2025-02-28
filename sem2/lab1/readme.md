@@ -40,16 +40,15 @@
 - 4.  Pipfile and Pipfile.lock
       **Pipfile і Pipfile.lock — це файли для керування залежностями в Python-проєктах, які використовують pipenv.**
       **Ці файли допомагають легко встановлювати та оновлювати пакети, забезпечуючи однакові версії залежностей на різних машинах.**
-      ![code](/Users/sofiayarema/cocojambo-2/chapter_2/lab_1/pictures/task2_ph4.png)
-      ![code](/Users/sofiayarema/cocojambo-2/chapter_2/lab_1/pictures/task2_ph4.png)
+      ![code](/workspaces/hobreirepository/sem2/lab1/pictures/11.png)
+      ![code](/workspaces/hobreirepository/sem2/lab1/pictures/12.png)
 - 6. Результати:
-     ![code](/Users/sofiayarema/cocojambo-2/chapter_2/lab_1/pictures/task2_ph6.png)
+     ![code](/workspaces/hobreirepository/sem2/lab1/pictures/13.png)
 - 7. Результати:
-     ![code](/Users/sofiayarema/cocojambo-2/chapter_2/lab_1/pictures/task2_ph7.1.png)
-     ![code](/Users/sofiayarema/cocojambo-2/chapter_2/lab_1/pictures/task2_ph7.2.png)
+     ![code](/workspaces/hobreirepository/sem2/lab1/pictures/14.png)
+     ![code](/workspaces/hobreirepository/sem2/lab1/pictures/15.png)
 - 9. Результати:
-     ![code](/Users/sofiayarema/cocojambo-2/chapter_2/lab_1/pictures/task2_ph9.png)
-     ![code](/Users/sofiayarema/cocojambo-2/chapter_2/lab_1/pictures/task2_ph9.1.png)
+     ![code](/workspaces/hobreirepository/sem2/lab1/pictures/16.png)
 
 ## Робота зі змінними середовища
 
@@ -58,11 +57,12 @@
 ## Робота з Poetry
 
 - 4. Результати:
-     ![code](/Users/sofiayarema/cocojambo-2/chapter_2/lab_1/pictures/task3_ph4.png)
-     ![code](/Users/sofiayarema/cocojambo-2/chapter_2/lab_1/pictures/task3_ph4.1.png)
+     ![code](/workspaces/hobreirepository/sem2/lab1/pictures/17.png)
+     ![code](/workspaces/hobreirepository/sem2/lab1/pictures/18.png)
 
 - 7. Результати:
-     ![code](/Users/sofiayarema/cocojambo-2/chapter_2/lab_1/pictures/task7_ph7.png)
+     ![code](/workspaces/hobreirepository/sem2/lab1/pictures/19.png)
+     ![code](/workspaces/hobreirepository/sem2/lab1/pictures/20.png)
 ---
 
 ### Висновок:
