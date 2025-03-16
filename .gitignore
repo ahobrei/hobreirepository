@@ -2212,3 +2212,12 @@ myproject/pyproject.toml
 myproject/README.md
 myproject/src/myproject/__init__.py
 myproject/tests/__init__.py
+sem2/lab2/__pycache__/app.cpython-312.pyc
+.coverage
+.gitignore
+Pipfile
+Pipfile.lock
+poetry.lock
+pyproject.toml
+sem2/lab2/__pycache__/app.cpython-312-pytest-8.3.4.pyc
+sem2/lab2/__pycache__/test_app.cpython-312-pytest-8.3.5.pyc
