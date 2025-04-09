@@ -25,16 +25,17 @@ jobs:
 
     - name: Run tests
       run: |
-        cd sem2/lab2
+        cd sem2/lab2/test_app.py
         pytest *.py -v
 
     - name: Generate Report
       run: |
-        cd sem2/lab2
+        cd sem2/lab2/test_app.py
         coverage run -m unittest discover -v
         coverage xml
 
     - name: Upload Coverage to Codecov
       uses: codecov/codecov-action@v3
       with:
-        directory: sem2/lab2
+          directory: sem2/lab2/test_app.py
+        
