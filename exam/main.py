@@ -1,8 +1,6 @@
 def count_vowels(s):
-    # Перелік голосних букв у нижньому регістрі
     vowels = 'aeiou'
     
-    # Підраховуємо кількість голосних в рядку, ігноруючи регістр
     count = sum(1 for char in s.lower() if char in vowels)
     
     return count
